@@ -1,7 +1,7 @@
 ## Olá, me chamo Fabiano Raiser
 
-- 🔭 Atualmente trabalhando como Operador Logistico, mas em transição para Dev.
-- 🌱 Estou aprendendo React com JS
+- 🔭 Atualmente trabalhando como Estágiario na Prefeitura Municipal de Joinville.
+- 🌱 Estou aprendendo criações de APIs e manipulações no Back-end.
 - 📫 Podem me contactar no fabiano.sgt.raiser@gmail.com
 - 😄 Pronome: ele/dele
 - ⚡ Fato interessante: ⛓ Faço cotas de malha ⛓
@@ -33,16 +33,7 @@
   <img alt="Fabiano-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="Fabiano-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="Fabiano-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div><br>
-
- **Tecnologias com que quero trabalhar no futuro**
-
-<div style="display: inline_block">
   <img alt="Fabiano-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Fabiano-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
-<div/>
-
-
-
+</div><br>
 
